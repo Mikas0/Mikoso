@@ -1,3 +1,3 @@
 ## Primer repositorio
 
-POG
+POGu
