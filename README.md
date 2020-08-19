@@ -1,3 +1,9 @@
 ## Primer repositorio
 
-POGu
+PO
+PogChamp
+
+## Subcabecera
+
+Primer edit con VS Code
+Poggers
